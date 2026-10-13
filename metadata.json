@@ -11,11 +11,13 @@
     "showcase.png": "https://jr-image.s3.ap-southeast-2.amazonaws.com/images/wechat/business-claude/2026-10-13-01a13310/showcase.png",
     "learning-path.png": "https://jr-image.s3.ap-southeast-2.amazonaws.com/images/wechat/business-claude/2026-10-13-01a13310/learning-path.png",
     "cover-portrait.png": "https://jr-image.s3.ap-southeast-2.amazonaws.com/images/wechat/business-claude/2026-10-13-01a13310/cover-portrait-ccaof.png",
+    "ccao-f-cert-master-service.png": "https://jr-image.s3.ap-southeast-2.amazonaws.com/images/wechat/business-claude/2026-10-13-01a13310/ccao-f-cert-master-service.png",
     "jr-logo.png": "https://jr-image.s3.ap-southeast-2.amazonaws.com/images/wechat/business-claude/2026-10-13-01a13310/jr-logo.png"
   },
   "sources": [
     "https://claude.com/resources/articles/four-role-based-claude-certifications",
     "https://anthropic-partners.skilljar.com/page/faq-certifications",
     "https://www.credly.com/org/anthropic/badge/claude-certified-associate-foundations"
-  ]
+  ],
+  "read_original_url": "https://jiangren.com.au/certifications/ccao-f"
 }

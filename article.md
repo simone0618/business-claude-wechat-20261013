@@ -103,10 +103,22 @@ Business 人可以给自己定一个具体练习目标：
 
 报考前也要确认入口。按官方当前说明，备考课程在 Anthropic Partner Academy，认证考试面向 Claude Partner Network 成员，具体资格和安排以官方公布为准。
 
-如果你想讨论 Business 方向怎么开始，可以在匠人学院公众号留言：**你的岗位，以及每周最想减少的一项重复工作。**
-
-比如“市场运营，每周整理报名反馈”，就比“我想学 AI”更容易找到第一项练习。
-
 ---
 
 资料依据：Anthropic《Four role-based certifications for the people who put Claude to work for customers》，2026 年 7 月 23 日；核验日期：2026 年 10 月 13 日。
+
+## 准备 CCAO-F，从考证匠开始
+
+如果你做运营、市场、产品或 HR，想系统学习 Claude、准备 CCAO-F 认证，可以从我们的**「考证匠」CCAO-F 备考服务**开始。
+
+目前备考页有 **1,220 道练习题**，配合章节学习、模拟考试、错题复盘和 AI 导师，先找到薄弱环节，再结合解析理解每个选项，回到错题继续练。
+
+备考时，也可以把前面提到的会议纪要、周报、PPT 和 HTML 项目展示作为实操练习，把知识用进自己的工作。
+
+![考证匠 CCAO-F 备考服务](https://jr-image.s3.ap-southeast-2.amazonaws.com/images/wechat/business-claude/2026-10-13-01a13310/ccao-f-cert-master-service.png)
+
+**去考证匠，开始 CCAO-F 备考。**
+
+点击文末「阅读原文」，或打开下方入口，查看学习路径并开始刷题。
+
+[进入考证匠 CCAO-F 备考页](https://jiangren.com.au/certifications/ccao-f)
