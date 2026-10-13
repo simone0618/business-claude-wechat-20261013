@@ -1,6 +1,6 @@
-# 做 Business，也能拿出自己的 AI 作品
+# Business 人考 Claude 证书：从 CCAO-F 学习到工作实操
 
-![Business 人的 Claude 工作指南](https://jr-image.s3.ap-southeast-2.amazonaws.com/images/wechat/business-claude/2026-10-13-01a13310/cover-wide.png)
+![Business 人的 Claude CCAO-F 认证指南](https://jr-image.s3.ap-southeast-2.amazonaws.com/images/wechat/business-claude/2026-10-13-01a13310/cover-wide-ccaof.png)
 
 你开完会，纪要还没整理，周报又要交了。
 
