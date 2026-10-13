@@ -1,6 +1,6 @@
 # 商科背景考 Claude 证书：工作流、PPT、团队展示都能练起来
 
-![商科与业务岗位的 Claude CCAO-F 认证实操](https://jr-image.s3.ap-southeast-2.amazonaws.com/images/wechat/business-claude/2026-10-13-01a13310/cover-wide-business-practice.png)
+![Business人的Claude CCAO-F 认证指南](https://jr-image.s3.ap-southeast-2.amazonaws.com/images/wechat/business-claude/2026-10-13-01a13310/cover-wide-terracotta-235.png)
 
 学 Business，或者在市场、运营、产品、HR、BA 岗位工作，你可能并不缺项目想法。真正耗时间的，是把想法变成任务清单，把零散资料整理成周报，再把成果装进 PPT。
 
