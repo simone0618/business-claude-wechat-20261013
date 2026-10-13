@@ -1,28 +1,28 @@
-# Business 人考 Claude 证书：从 CCAO-F 学习到工作实操
+# 商科背景考 Claude 证书：工作流、PPT、团队展示都能练起来
 
-![Business 人的 Claude CCAO-F 认证指南](https://jr-image.s3.ap-southeast-2.amazonaws.com/images/wechat/business-claude/2026-10-13-01a13310/cover-wide-ccaof.png)
+![商科与业务岗位的 Claude CCAO-F 认证实操](https://jr-image.s3.ap-southeast-2.amazonaws.com/images/wechat/business-claude/2026-10-13-01a13310/cover-wide-business-practice.png)
 
-你开完会，纪要还没整理，周报又要交了。
+学 Business，或者在市场、运营、产品、HR、BA 岗位工作，你可能并不缺项目想法。真正耗时间的，是把想法变成任务清单，把零散资料整理成周报，再把成果装进 PPT。
 
-下周的项目汇报，资料散在文档和表格里。到了 Team Showcase，还得想办法把这几个月的工作讲得清楚、展示得好看。
+准备 Claude CCAO-F 认证，可以把这些工作一起练起来：用 Claude 梳理工作流，把重复任务做成自动化流程，整理 PPT 的内容和结构，再做一个带动画的 HTML Team Showcase。
 
-做市场、运营、产品、BA，很多时间就花在这些事上：整理、汇总、复制，再换一种格式。
+下次团队展示，拿出一个能点击、能切换模块、还能用手机打开的项目页面。项目过程和成果讲清楚了，也更容易让同事记住。
 
-如果学 Claude，我们建议从这里开始：**把反复做的任务整理成流程，再做出一份团队能看见的成果。**
+**工作流、自动化、PPT，再到带动画的项目展示，都可以成为认证学习期间拿得出手的实操作品。**
 
-## CCAO-F，可以作为系统学习的入口
+## CCAO-F：把认证学习接到业务工作上
 
 CCAO-F，指 Claude Certified Associate – Foundations。Anthropic 对这张认证的定位，是验证 Claude 的日常实用能力，覆盖业务与技术背景的相关角色。
 
-对 Business 人来说，可以沿着这一方向系统学习，再把知识放进自己的工作里练。
+对商科背景、从事业务岗位的人来说，可以沿着这一方向系统学习，再把知识放进自己的工作里练。
 
-考证和实操要一起做。证书之外，你还需要拿得出一套工作流程、一份汇报，或者一个可以演示的项目页面。
+准备认证时，可以给自己安排一个完整的项目练习：跑通一个工作流，减少一项重复操作，完成一份汇报，再把成果做成能演示的页面。
 
 以下四个场景，都以**“季度项目复盘”为练习示例**。你可以换成自己的活动、产品或客户项目，沿用这些操作思路。
 
 ---
 
-## 01｜工作流：会开完了，任务也要接得住
+## 01｜工作流：把业务想法变成能跟进的任务
 
 假设你负责一个活动项目，会议里讨论了宣传、场地和报名页面，记录却混着背景、想法和已经确定的决定。
 
@@ -38,7 +38,7 @@ CCAO-F，指 Claude Certified Associate – Foundations。Anthropic 对这张认
 
 ![示例：从会议记录到可跟进的任务清单](https://jr-image.s3.ap-southeast-2.amazonaws.com/images/wechat/business-claude/2026-10-13-01a13310/workflow.png)
 
-## 02｜自动化：先挑一件每周重复的事
+## 02｜自动化：让每周重复的事有一套处理流程
 
 比如，每周把各渠道的报名反馈整理成周报。你可以先写清楚：输入是什么，按什么规则分类，输出给谁看。
 
@@ -52,7 +52,7 @@ CCAO-F，指 Claude Certified Associate – Foundations。Anthropic 对这张认
 
 ![示例：固定输入、分类规则和审核环节](https://jr-image.s3.ap-southeast-2.amazonaws.com/images/wechat/business-claude/2026-10-13-01a13310/automation.png)
 
-## 03｜PPT：从“做几页”变成“讲清一件事”
+## 03｜PPT：从一堆资料，到一份能讲清楚的汇报
 
 同一个项目，给同事做分享和向负责人汇报，重点可能完全不同。
 
@@ -70,9 +70,9 @@ CCAO-F，指 Claude Certified Associate – Foundations。Anthropic 对这张认
 
 ![示例：先理清汇报结构，再修改页面和内容](https://jr-image.s3.ap-southeast-2.amazonaws.com/images/wechat/business-claude/2026-10-13-01a13310/presentation.png)
 
-## 04｜HTML Showcase：把项目做成能演示的页面
+## 04｜Team Showcase：拿出一个带动画、能互动的项目展示
 
-Team Showcase 也可以换一种形式。
+到了 Team Showcase，你还可以拿出一个带动画、能点击的 HTML 项目展示页面。
 
 把项目背景、过程、成果和复盘整理成一个 HTML 页面：点击查看阶段进展，切换不同模块，展示前后变化，再加一点适度的动画。
 
@@ -84,13 +84,13 @@ Team Showcase 也可以换一种形式。
 
 公开分享时，再将页面与图片部署到可访问的线上地址，检查链接和图片是否正常。
 
-这个场景有意思的地方是，团队能直接看到你整理问题、表达成果的方法。动画适量就好，讲得清楚更重要。
+时间线展开、模块切换、关键成果逐项呈现，都可以成为演示的一部分。对业务岗位来说，这是一份拿得出手的团队展示：既展示项目，也展示你把 AI 用进实际工作的能力。
 
 ![示例：将项目复盘做成可演示的 HTML 页面](https://jr-image.s3.ap-southeast-2.amazonaws.com/images/wechat/business-claude/2026-10-13-01a13310/showcase.png)
 
 ## 学习路线：边准备认证，边积累作品
 
-Business 人可以给自己定一个具体练习目标：
+商科背景学习 Claude，可以给自己定一个具体练习目标：
 
 - 用模拟纪要做出一份任务清单，保存整理规则。
 - 挑一个重复任务，试出稳定的输入与输出。
